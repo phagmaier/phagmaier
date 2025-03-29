@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Parker Hagmaoer</h1>
+<h1 align="center">Hi 👋, I'm Parker Hagmaier</h1>
 <h3 align="center">C/C++ developer from California</h3>
 
 - 🔭 I’m currently working on [Tokenizer/building my own AI Framework in C/C++](https://github.com/phagmaier/Tokenizer)
