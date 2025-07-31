@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Parker Hagmaier</h1>
-<h3 align="center">C/C++ developer from California</h3>
+<h3 align="center">C/C++ developer from Newport Beach, Ca</h3>
 
-- 🔭 I’m currently working on building a [automated theorem prover/proof assistant]([https://github.com/phagmaier/Tokenizer](https://github.com/phagmaier/automated-theorem-solver)
+- 🔭 I’m currently working on building a [automated theorem prover and proof assistant](https://github.com/phagmaier/automated-theorem-solver).
 
 - 👨‍💻 All of my projects are available at [https://github.com/phagmaier?tab=repositories](https://github.com/phagmaier?tab=repositories)
 
