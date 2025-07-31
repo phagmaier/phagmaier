@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋, I'm Parker Hagmaier</h1>
 <h3 align="center">C/C++ developer from California</h3>
 
-- 🔭 I’m currently working on [Tokenizer/building my own AI Framework in C/C++](https://github.com/phagmaier/Tokenizer)
-
-- 💻 I’m currently learning **AI, and game development**
-
-- ⚗️ I’m looking to collaborate on [Poker Solver](https://github.com/phagmaier/poker-solver)
-
-- 🤝 I’m looking for help with [Poker Solver](https://github.com/phagmaier/poker-solver)
+- 🔭 I’m currently working on building a [automated theorem prover/proof assistant]([https://github.com/phagmaier/Tokenizer](https://github.com/phagmaier/automated-theorem-solver))
 
 - 👨‍💻 All of my projects are available at [https://github.com/phagmaier?tab=repositories](https://github.com/phagmaier?tab=repositories)
 
@@ -15,7 +9,7 @@
 
 - 📫 How to reach me **<parkerhagmaier@gmail.com>**
 
-- ⚡ Fun fact **I write screenplays for fun**
+- ⚡ Fun fact **I write screenplays**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
